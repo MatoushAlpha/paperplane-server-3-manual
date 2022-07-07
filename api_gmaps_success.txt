@@ -1,0 +1,579 @@
+{
+  'geocoded_waypoints': [
+    {
+      'geocoder_status': 'OK',
+      'place_id': 'ChIJkaZDcTSaEkcRMEUWZg-vAAQ',
+      'types': [
+        'locality',
+        'political'
+      ]
+    },
+    {
+      'geocoder_status': 'OK',
+      'place_id': 'ChIJm74aR6tVbEcRS5vSjRBSeiQ',
+      'types': [
+        'airport',
+        'establishment',
+        'point_of_interest'
+      ]
+    }
+  ],
+  'routes': [
+    {
+      'bounds': {
+        'northeast': {
+          'lat': 49.3008319,
+          'lng': 16.6521224
+        },
+        'southwest': {
+          'lat': 48.119972,
+          'lng': 16.4142211
+        }
+      },
+      'copyrights': 'Map data ©2022',
+      'legs': [
+        {
+          'arrival_time': {
+            'text': '7:50am',
+            'time_zone': 'Europe/Vienna',
+            'value': 1657432200
+          },
+          'departure_time': {
+            'text': '4:23am',
+            'time_zone': 'Europe/Prague',
+            'value': 1657419780
+          },
+          'distance': {
+            'text': '158 km',
+            'value': 157884
+          },
+          'duration': {
+            'text': '3 hours 27 mins',
+            'value': 12420
+          },
+          'end_address': 'Vienna International Airport (VIE), 1300 Schwechat, Austria',
+          'end_location': {
+            'lat': 48.119972,
+            'lng': 16.563238
+          },
+          'start_address': '664 71 Veverská Bítýška, Czechia',
+          'start_location': {
+            'lat': 49.275912,
+            'lng': 16.436084
+          },
+          'steps': [
+            {
+              'distance': {
+                'text': '10.5 km',
+                'value': 10469
+              },
+              'duration': {
+                'text': '20 mins',
+                'value': 1200
+              },
+              'end_location': {
+                'lat': 49.30059,
+                'lng': 16.534847
+              },
+              'html_instructions': 'Bus towards Kuřim, železniční stanice',
+              'polyline': {
+                'points': 'mewkHodicBGEXeBBOFMTk@CC?EAC?E?GFk@\\iCHc@DUHU?_BAc@KwAI{@Iu@A_@A]@kABe@PwC?u@?MAi@?WOqCSuBoAuJOkACQE[Ei@?KAC?Q?O?O@Q@S@Q@]BWFs@BUB_@BWDi@V}C@OFs@Fu@Fq@Fy@Fu@@EFu@Fu@Fu@VaDHcADe@BYF}A?OAw@?UC_@ASCWGg@Kq@Kc@Og@AEAG[aAq@sAi@w@e@g@c@_@OOOIMGSIa@QYKKEEAIAMAUCOASAc@?c@FUDWDG@I@EBIDMFSHMFCBIDCDSNKJC@YZw@~@A@[`@[b@Y`@}@jAi@b@UPWJUHg@JE@w@L_@Da@BO@G?GAEACAa@YYk@KUYe@CEYc@MSa@o@EEOUIOONABEBWV?@Y\\[b@ABYd@MDC@C@SDO?K?MA[K_@IMCU?s@?E?E?m@Ag@Ia@MaCu@GC]ICA[M[QKGQKMK_@WCCo@k@w@_AIMcCqDQWIKYg@Ye@?AQa@CGACEMAIAGAG?EAmBf@OBU?K?K?GAC?CAECOGSEOI_@ACEMK]?AOe@AE?ACEGICCKI?ACCCCGCEC[QYOSGWO[SOMMOKMMS{@eBe@}@Wg@MSKQYg@We@MSKQSWGMOUIUKYEMCKWsA[yACSGWCUAGC[C[Ac@?W?]By@?GLyEJ{CBo@?E?k@?[AUAOAKEYCM?CCMGSGOISIQGKGIIMA?IKGEGEOIOEEAMCUEKESGAAQIOI_@QA?_@Ua@UuAw@IEECGGIGCEIKEGGOEKAGCEAGCMAKAEASASAU@U@QBQ@MDQDKBGNUPOJKHEHIPOhA}@RQp@o@FGFIJWDIH]DQ?APaAF_@?C@EDWB]@Q@M?I?MAOAOAMAQWwCCY?IAQ?I?O?kA?Y?SBm@Ba@?ENsA^cD@iB?E?O?G?I@UBWBUHo@@CJs@BYDW?AB_@@WBc@@QBu@@_@BSDy@Ba@@Q?ABSBSBK@ILg@Ry@\\wAPo@p@oCRkAPiBP}AFcABeAL{E@c@?QBu@Bw@@M@YBM@MF]DSJc@Nq@r@qCBMJa@Nq@Nq@Pu@@GDQHSDKFKRc@x@{AjAwBDKPg@Nk@Ns@Lg@DKJYTk@L]DK?A@EDSBS?SAo@KcBASGmA?ICu@@O@Y@M@MFi@D_@?]ASIUAASWKIQIKCEAQAK@E?ODE@E@_@JC@a@LODK@K@KCKGMOIUACAGOq@Oo@IYKa@Uo@_@y@_@s@MMQMYSCAy@]IEMK]YQQY[CA]]a@Q]Ks@UQGUKKEICWOCA[SMIGICMAo@?a@GeA?CGu@Iu@Gg@AM@SBYFg@DQLq@He@@E?EHg@J_AJ_A^oDHcAJkADg@L}AJaA?CHk@@CNq@BOBGBUBW?]AmB?w@?A?s@@mB?w@@eD@u@AW?IAICYKi@Ik@eA{DeA}Di@gBQo@}@wCEOg@iBAEIWGWAIEWCQAGA_@AM?M?[?M?M?ABe@Du@@CDq@Fu@Du@B_@BUDu@@QB_@?CBs@ACCu@?OGe@A]E_@ESESG]Oq@Mq@Mq@Oq@Mq@Os@Mq@Oq@Mq@Mq@Oq@a@Pa@Pa@Pa@RcAb@_@Pa@P}@`@E@c@P{Ah@IB_@LC?I@OAGCCAMGIIEC]]IGIGUQNa@@EL[FQRk@Tm@Rk@Tk@BINe@@EDKJa@Rm@DML_@@C@IBGFYF[Jg@JaADo@@eAEu@?MKu@G[Oa@m@{AS_@mAmCM_@M_@Qg@GYMc@Ic@CKGa@CQ?ECSE[?GEu@Cc@?eA?Y?S?M@_A@YBa@?KDa@Du@Du@Dw@Du@@S@a@Bw@@IGAeAW_@ICAa@Kc@Ic@Ka@IFy@]CE?c@?q@A}@@k@@Mq@AECSAEDA'
+              },
+              'start_location': {
+                'lat': 49.275912,
+                'lng': 16.436084
+              },
+              'transit_details': {
+                'arrival_stop': {
+                  'location': {
+                    'lat': 49.30059,
+                    'lng': 16.534847
+                  },
+                  'name': 'Kuřim, železniční stanice'
+                },
+                'arrival_time': {
+                  'text': '4:43am',
+                  'time_zone': 'Europe/Prague',
+                  'value': 1657420980
+                },
+                'departure_stop': {
+                  'location': {
+                    'lat': 49.275912,
+                    'lng': 16.436084
+                  },
+                  'name': 'Veverská Bítýška, náměstí'
+                },
+                'departure_time': {
+                  'text': '4:23am',
+                  'time_zone': 'Europe/Prague',
+                  'value': 1657419780
+                },
+                'headsign': 'Kuřim, železniční stanice',
+                'line': {
+                  'agencies': [
+                    {
+                      'name': 'IDS JMK (Data from: KORDIS JMK, DPMB)',
+                      'phone': '011 420 543 174 317',
+                      'url': 'http://www.idsjmk.cz/'
+                    }
+                  ],
+                  'color': '#a2f279',
+                  'name': 'Tišnov - Veverská Bítýška - Kuřim',
+                  'short_name': '312',
+                  'text_color': '#000000',
+                  'vehicle': {
+                    'icon': '//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png',
+                    'name': 'Bus',
+                    'type': 'BUS'
+                  }
+                },
+                'num_stops': 7
+              },
+              'travel_mode': 'TRANSIT'
+            },
+            {
+              'distance': {
+                'text': '81 m',
+                'value': 81
+              },
+              'duration': {
+                'text': '1 min',
+                'value': 63
+              },
+              'end_location': {
+                'lat': 49.3000629,
+                'lng': 16.5344509
+              },
+              'html_instructions': 'Walk to Kuřim',
+              'polyline': {
+                'points': '{_|kHwm|cB@DBRNv@j@Al@A'
+              },
+              'start_location': {
+                'lat': 49.30061629999999,
+                'lng': 16.5348368
+              },
+              'steps': [
+                {
+                  'distance': {
+                    'text': '32 m',
+                    'value': 32
+                  },
+                  'duration': {
+                    'text': '1 min',
+                    'value': 23
+                  },
+                  'end_location': {
+                    'lat': 49.3005058,
+                    'lng': 16.5344339
+                  },
+                  'html_instructions': 'Head <b>west</b> on <b>Farského</b> toward <b>Nádražní</b>',
+                  'polyline': {
+                    'points': '{_|kHwm|cB@DBRNv@'
+                  },
+                  'start_location': {
+                    'lat': 49.30061629999999,
+                    'lng': 16.5348368
+                  },
+                  'travel_mode': 'WALKING'
+                },
+                {
+                  'distance': {
+                    'text': '49 m',
+                    'value': 49
+                  },
+                  'duration': {
+                    'text': '1 min',
+                    'value': 40
+                  },
+                  'end_location': {
+                    'lat': 49.3000629,
+                    'lng': 16.5344509
+                  },
+                  'html_instructions': 'Turn <b>left</b> onto <b>Nádražní</b><div style="font-size:0.9em">Destination will be on the right</div>',
+                  'maneuver': 'turn-left',
+                  'polyline': {
+                    'points': 'e_|kHek|cBj@Al@A'
+                  },
+                  'start_location': {
+                    'lat': 49.3005058,
+                    'lng': 16.5344339
+                  },
+                  'travel_mode': 'WALKING'
+                }
+              ],
+              'travel_mode': 'WALKING'
+            },
+            {
+              'distance': {
+                'text': '21.1 km',
+                'value': 21065
+              },
+              'duration': {
+                'text': '25 mins',
+                'value': 1500
+              },
+              'end_location': {
+                'lat': 49.19035,
+                'lng': 16.612342
+              },
+              'html_instructions': 'Train towards Hlavní nádraží',
+              'polyline': {
+                'points': 'k|{kHqj|cByC??M?w@?M?g@?w@?mB?}@BsB?W?k@AmB?S@qA?_A?[BcA@MDu@Ds@@AFs@Hu@?GNeAFYTwABMLs@PaADe@Bg@@MHs@n@oDNq@ZeBZcBZeBZeBFWXiABGb@sAHYHSRk@Pc@BGbAgCRg@\\y@L[j@wARg@j@{ATk@@Ch@qADId@mADIv@oBl@}A@Al@yANc@Vq@HSv@oB@Ah@uAN[FMn@wAl@mAVg@Ve@Xi@Xe@r@mANW`@u@r@mA@AVc@~BaEbAgBp@kADGpA{BNUxAgCJSXe@v@sAR_@Xe@v@oATa@NUjA{AjAmAb@a@BCx@s@r@k@h@c@^YHGTS^Y^Y\\YDEXU^Y^Y^Y\\YRQjA}@n@i@LK^Y^Y^Y|@u@NKn@g@RQHI^Y@A\\WHGZYVSv@k@FG~@s@\\[^W^[d@_@XUb@]XU~@s@LMPK|@s@FEVSZSd@]TQhAu@LIdAs@LGpAy@NK^U`@W^U^UHEjAs@lAw@b@YZW\\W@Aj@c@XYPSVYHIFIRYZa@JQZi@Ve@b@{@BIr@kBFOPm@Rm@BIf@kBHYT{@Jc@dA{Db@eBJ_@V_ABK\\sA@E`@sA@CTo@L_@BIHQJY@AHSHSHQFKDKDIHOHMDKFIJODGJSPUPUTYDG\\]XYb@_@XUd@[LIf@Yr@Y\\KTKl@Qt@Sr@OJCVE`@IXGpAQXEF?b@Eb@Eh@E\\Ax@Cp@?f@@^@X@|@JRDVDHBb@JB@\\LLFRH`@PLFRJLHPLJFlAz@DB^X~@p@HFvA~@FDt@d@d@P`@PHBVHz@TH@fAL@@dA@d@AR?LAPAPC@?n@ITGf@M\\MFC^Od@UVODEh@]RQXWLKl@q@HIZc@T]d@u@f@aAv@mBDIDQFQRq@d@oB\\oBBI^eCr@wETsAXuATeA`@uA`@gARa@Re@n@gA^m@\\a@PSr@u@r@i@JKRKZSt@_@|@YZG^Ip@Iz@Ej@?f@@h@BdCV`BPrDb@x@HN@L@|@JlALjJhAfJ`ATBTBf@Fh@F^B\\@j@BX?@?x@@z@AhAEj@CvESxAE^Ah@CnEQ`DK~CMzBIfBMn@G`@GXEt@S^KTILGh@[l@]~@q@fAaAfAaAt@u@r@s@dAcAb@[^e@bA_ArAoAjBgBnBkBbC_CrCmCjCeCFGtCqCzBuBhAiABCFEHKJI^]PQl@k@d@c@h@i@Z_@b@e@Va@\\i@Vg@Ti@Pc@Pe@FWHWHYFWH]F]Hc@Fg@Fk@Fo@Dg@Bi@Bw@DyAFaCDyBDyBJsDB{@DgADk@Hw@LcAJw@V{AP{@x@{Dp@eDxAkHt@kDJi@Ji@vBoKvDqQJg@Jg@zDgRTcA@GBKRaAFYxBoKv@yDf@}BHe@VmADSh@aCZwAReAJo@Jm@Hk@Da@Fc@B_@Bm@Dy@@k@?]?_@Ay@A}@GaAEo@?CIcACYg@gCq@qBKSi@gAmBcCgA{@o@_@m@U{@Wy@My@AqB?kC@qAI{@EQCQGq@UKE{@g@i@c@c@]q@_AOQU]i@{@U_@e@y@[g@g@{@OWGKWa@c@u@i@_AS[We@_@m@S]Wc@cAeBwA}Bu@oAYg@MY]o@[o@g@mAg@wAUq@a@uAe@oB_@uB[oCGa@KiAGqACu@Ag@?k@?k@@G@g@@o@@AFcAHy@Fe@@EDYP_ADONm@Ni@Vs@N]DKRe@R_@JQd@q@`@e@n@k@t@k@n@_@ZKZKXIDA\\IJCTC@?`@Ab@?^@T@t@Jr@NjB`@LBNDPDRD^JnBb@jATH@n@F|@Ln@@\\?R@R?V@p@FXB\\DZBp@Hb@H`AXdA`@TJ`Bp@tAj@B@lAd@t@ZRHx@\\fAb@~B~@lDzAnDvAbDrAxCnAlAd@z@\\nAh@|@\\dAb@p@ZZPXN|@p@dAj@DBl@Tr@f@RPNNj@d@TNBDXRh@b@\\\\`@f@TXb@r@Vd@\\p@DJXl@Tl@Tj@^dATp@L^Pf@f@vAv@tB~@lCJZRj@`@dALVXl@b@v@b@t@^f@l@p@d@f@XX|@p@~@d@`Ab@n@P^Jn@J~@Nl@J\\FRDLB`B^pCp@x@TFBD@F@D@NHLHHFx@\\lBr@TFfB^\\HPDLBz@TZHj@Lr@Nd@Lb@LTH\\Jh@PbAd@`@TZR\\TXRVR^XNLPPXVRTRT`@d@X\\FHPTV`@RZVb@^n@P\\JTJPVj@b@~@b@lAPh@JZf@dBFR@FFVHb@Pr@@FPx@Px@@DLr@H^D\\Lz@Dd@N|ADn@Hv@Fx@@RNfBTxCNnBPfCNhBB\\JnAFf@JnAPlBV~CJlAFr@Hv@Fv@PvBBRFt@Hv@NlAD^H`@F\\FTJ\\FPJXPh@Pb@Nb@JZDJBFFLLRFJHJLR@?LPNNJJPN^ZNF^`@LJDFnAv@FDRPTRPNRRX\\d@l@b@v@DLFNHXJ\\HVH\\Pv@A@'
+              },
+              'start_location': {
+                'lat': 49.300061,
+                'lng': 16.534334
+              },
+              'transit_details': {
+                'arrival_stop': {
+                  'location': {
+                    'lat': 49.19035,
+                    'lng': 16.612342
+                  },
+                  'name': 'Hlavní nádraží'
+                },
+                'arrival_time': {
+                  'text': '5:21am',
+                  'time_zone': 'Europe/Prague',
+                  'value': 1657423260
+                },
+                'departure_stop': {
+                  'location': {
+                    'lat': 49.300061,
+                    'lng': 16.534334
+                  },
+                  'name': 'Kuřim'
+                },
+                'departure_time': {
+                  'text': '4:56am',
+                  'time_zone': 'Europe/Prague',
+                  'value': 1657421760
+                },
+                'headsign': 'Hlavní nádraží',
+                'line': {
+                  'agencies': [
+                    {
+                      'name': 'IDS JMK (Data from: KORDIS JMK, DPMB)',
+                      'phone': '011 420 543 174 317',
+                      'url': 'http://www.idsjmk.cz/'
+                    }
+                  ],
+                  'color': '#800000',
+                  'name': 'Níhov - Tišnov - Brno hl.n. - Vranovice - Šakvice - Hustopeče Tišnov - Brno hl.n. - Židlochovice',
+                  'short_name': 'S3',
+                  'text_color': '#ffffff',
+                  'vehicle': {
+                    'icon': '//maps.gstatic.com/mapfiles/transit/iw2/6/rail2.png',
+                    'name': 'Train',
+                    'type': 'HEAVY_RAIL'
+                  }
+                },
+                'num_stops': 6
+              },
+              'travel_mode': 'TRANSIT'
+            },
+            {
+              'distance': {
+                'text': '0.3 km',
+                'value': 254
+              },
+              'duration': {
+                'text': '4 mins',
+                'value': 229
+              },
+              'end_location': {
+                'lat': 49.1933706,
+                'lng': 16.6142103
+              },
+              'html_instructions': 'Walk to Brno Benesova',
+              'polyline': {
+                'points': 'ivfkHytkdBAEAC?E@QY_@GEIGKEEAi@WIEETu@[oAi@MGg@W@a@EWOO]O'
+              },
+              'start_location': {
+                'lat': 49.1915714,
+                'lng': 16.612772
+              },
+              'steps': [
+                {
+                  'distance': {
+                    'text': '84 m',
+                    'value': 84
+                  },
+                  'duration': {
+                    'text': '2 mins',
+                    'value': 96
+                  },
+                  'end_location': {
+                    'lat': 49.1921512,
+                    'lng': 16.6133592
+                  },
+                  'html_instructions': 'Head <b>east</b><div style="font-size:0.9em">Take the stairs</div>',
+                  'polyline': {
+                    'points': 'ivfkHytkdBAEAC?E@QY_@GEIGKEEAi@WIE'
+                  },
+                  'start_location': {
+                    'lat': 49.1915714,
+                    'lng': 16.612772
+                  },
+                  'travel_mode': 'WALKING'
+                },
+                {
+                  'distance': {
+                    'text': '9 m',
+                    'value': 9
+                  },
+                  'duration': {
+                    'text': '1 min',
+                    'value': 7
+                  },
+                  'end_location': {
+                    'lat': 49.1921824,
+                    'lng': 16.6132463
+                  },
+                  'html_instructions': 'Turn <b>left</b> toward <b>Benešova</b>',
+                  'maneuver': 'turn-left',
+                  'polyline': {
+                    'points': '}yfkHoxkdBET'
+                  },
+                  'start_location': {
+                    'lat': 49.1921512,
+                    'lng': 16.6133592
+                  },
+                  'travel_mode': 'WALKING'
+                },
+                {
+                  'distance': {
+                    'text': '0.1 km',
+                    'value': 111
+                  },
+                  'duration': {
+                    'text': '1 min',
+                    'value': 84
+                  },
+                  'end_location': {
+                    'lat': 49.1931214,
+                    'lng': 16.6137577
+                  },
+                  'html_instructions': 'Turn <b>right</b> onto <b>Benešova</b>',
+                  'maneuver': 'turn-right',
+                  'polyline': {
+                    'points': 'czfkHywkdBu@[oAi@MGg@W'
+                  },
+                  'start_location': {
+                    'lat': 49.1921824,
+                    'lng': 16.6132463
+                  },
+                  'travel_mode': 'WALKING'
+                },
+                {
+                  'distance': {
+                    'text': '21 m',
+                    'value': 21
+                  },
+                  'duration': {
+                    'text': '1 min',
+                    'value': 20
+                  },
+                  'end_location': {
+                    'lat': 49.1931373,
+                    'lng': 16.6140459
+                  },
+                  'html_instructions': 'Turn <b>right</b>',
+                  'maneuver': 'turn-right',
+                  'polyline': {
+                    'points': '_`gkH_{kdB@a@EW'
+                  },
+                  'start_location': {
+                    'lat': 49.1931214,
+                    'lng': 16.6137577
+                  },
+                  'travel_mode': 'WALKING'
+                },
+                {
+                  'distance': {
+                    'text': '29 m',
+                    'value': 29
+                  },
+                  'duration': {
+                    'text': '1 min',
+                    'value': 22
+                  },
+                  'end_location': {
+                    'lat': 49.1933706,
+                    'lng': 16.6142103
+                  },
+                  'html_instructions': 'Turn <b>left</b><div style="font-size:0.9em">Destination will be on the right</div>',
+                  'maneuver': 'turn-left',
+                  'polyli {'geocoded_waypoints': [{'geocoder_status': 'OK', 'place_id': 'ChIJkaZDcTSaEkcRMEUWZg-vAAQ', 'types': ['locality', 'political']}, {'geocoder_status': 'OK', 'place_id': 'ChIJm74aR6tVbEcRS5vSjRBSeiQ', 'types': ['airport', 'establishment', 'point_of_interest']}], 'routes': [{'bounds': {'northeast': {'lat': 49.3008319, 'lng': 16.6521224}, 'southwest': {'lat': 48.119972, 'lng': 16.4142211}}, 'copyrights': 'Mapdata©2022', 'legs': [{'arrival_time': {'text': '7: 50am', 'time_zone': 'Europe/Vienna', 'value': 1657432200}, 'departure_time': {'text': '4: 23am', 'time_zone': 'Europe/Prague', 'value': 1657419780}, 'distance': {'text': '158km', 'value': 157884}, 'duration': {'text': '3hours27mins', 'value': 12420}, 'end_address': 'ViennaInternationalAirport(VIE),
+                  1300Schwechat,
+                  Austria', 'end_location': {'lat': 48.119972, 'lng': 16.563238}, 'start_address': '66471VeverskáBítýška,
+                  Czechia', 'start_location': {'lat': 49.275912, 'lng': 16.436084}, 'steps': [{'distance': {'text': '10.5km', 'value': 10469}, 'duration': {'text': '20mins', 'value': 1200}, 'end_location': {'lat': 49.30059, 'lng': 16.534847}, 'html_instructions': 'BustowardsKuřim,
+                  železničnístanice', 'polyline': {'points': 'mewkHodicBGEXeBBOFMTk@CC?EAC?E?GFk@\\iCHc@DUHU?_BAc@KwAI{
+                    @Iu@A_@A
+                  ]@kABe@PwC?u@?MAi@?WOqCSuBoAuJOkACQE[
+                    Ei@?KAC?Q?O?O@Q@S@Q@
+                  ]BWFs@BUB_@BWDi@V
+                }C@OFs@Fu@Fq@Fy@Fu@@EFu@Fu@Fu@VaDHcADe@BYF
+              }A?OAw@?UC_@ASCWGg@Kq@Kc@Og@AEAG[
+                aAq@sAi@w@e@g@c@_@OOOIMGSIa@QYKKEEAIAMAUCOASAc@?c@FUDWDG@I@EBIDMFSHMFCBIDCDSNKJC@YZw@~@A@[
+                  `@[
+                    b@Y`@
+                  }@jAi@b@UPWJUHg@JE@w@L_@Da@BO@G?GAEACAa@YYk@KUYe@CEYc@MSa@o@EEOUIOONABEBWV?@Y\\[
+                    b@ABYd@MDC@C@SDO?K?MA[
+                      K_@IMCU?s@?E?E?m@Ag@Ia@MaCu@GC
+                    ]ICA[
+                      M[
+                        QKGQKMK_@WCCo@k@w@_AIMcCqDQWIKYg@Ye@?AQa@CGACEMAIAGAG?EAmBf@OBU?K?K?GAC?CAECOGSEOI_@ACEMK
+                      ]?AOe@AE?ACEGICCKI?ACCCCGCEC[
+                        QYOSGWO[
+                          SOMMOKMMS{
+                            @eBe@
+                          }@Wg@MSKQYg@We@MSKQSWGMOUIUKYEMCKWsA[
+                            yACSGWCUAGC[
+                              C[
+                                Ac@?W?
+                              ]By@?GLyEJ{
+                                CBo@?E?k@?[
+                                  AUAOAKEYCM?CCMGSGOISIQGKGIIMA?IKGEGEOIOEEAMCUEKESGAAQIOI_@QA?_@Ua@UuAw@IEECGGIGCEIKEGGOEKAGCEAGCMAKAEASASAU@U@QBQ@MDQDKBGNUPOJKHEHIPOhA
+                                }@RQp@o@FGFIJWDIH
+                              ]DQ?APaAF_@?C@EDWB
+                            ]@Q@M?I?MAOAOAMAQWwCCY?IAQ?I?O?kA?Y?SBm@Ba@?ENsA^cD@iB?E?O?G?I@UBWBUHo@@CJs@BYDW?AB_@@WBc@@QBu@@_@BSDy@Ba@@Q?ABSBSBK@ILg@Ry@\\wAPo@p@oCRkAPiBP
+                          }AFcABeAL{
+                            E@c@?QBu@Bw@@M@YBM@MF
+                          ]DSJc@Nq@r@qCBMJa@Nq@Nq@Pu@@GDQHSDKFKRc@x@{
+                            AjAwBDKPg@Nk@Ns@Lg@DKJYTk@L
+                          ]DK?A@EDSBS?SAo@KcBASGmA?ICu@@O@Y@M@MFi@D_@?
+                        ]ASIUAASWKIQIKCEAQAK@E?ODE@E@_@JC@a@LODK@K@KCKGMOIUACAGOq@Oo@IYKa@Uo@_@y@_@s@MMQMYSCAy@
+                      ]IEMK
+                    ]YQQY[
+                      CA
+                    ]
+                  ]a@Q
+                ]Ks@UQGUKKEICWOCA[
+                  SMIGICMAo@?a@GeA?CGu@Iu@Gg@AM@SBYFg@DQLq@He@@E?EHg@J_AJ_A^oDHcAJkADg@L
+                }AJaA?CHk@@CNq@BOBGBUBW?
+              ]AmB?w@?A?s@@mB?w@@eD@u@AW?IAICYKi@Ik@eA{
+                DeA
+              }Di@gBQo@
+            }@wCEOg@iBAEIWGWAIEWCQAGA_@AM?M?[
+              ?M?M?ABe@Du@@CDq@Fu@Du@B_@BUDu@@QB_@?CBs@ACCu@?OGe@A
+            ]E_@ESESG
+          ]Oq@Mq@Mq@Oq@Mq@Os@Mq@Oq@Mq@Mq@Oq@a@Pa@Pa@Pa@RcAb@_@Pa@P
+        }@`@E@c@P{
+          Ah@IB_@LC?I@OAGCCAMGIIEC
+        ]
+      ]IGIGUQNa@@EL[
+        FQRk@Tm@Rk@Tk@BINe@@EDKJa@Rm@DML_@@C@IBGFYF[
+          Jg@JaADo@@eAEu@?MKu@G[
+            Oa@m@{
+              AS_@mAmCM_@M_@Qg@GYMc@Ic@CKGa@CQ?ECSE[
+                ?GEu@Cc@?eA?Y?S?M@_A@YBa@?KDa@Du@Du@Dw@Du@@S@a@Bw@@IGAeAW_@ICAa@Kc@Ic@Ka@IFy@
+              ]CE?c@?q@A
+            }@@k@@Mq@AECSAEDA'}, 'start_location': {'lat': 49.275912, 'lng': 16.436084}, 'transit_details': {'arrival_stop': {'location': {'lat': 49.30059, 'lng': 16.534847}, 'name': 'Kuřim,
+            železničnístanice'}, 'arrival_time': {'text': '4: 43am', 'time_zone': 'Europe/Prague', 'value': 1657420980}, 'departure_stop': {'location': {'lat': 49.275912, 'lng': 16.436084}, 'name': 'VeverskáBítýška,
+            náměstí'}, 'departure_time': {'text': '4: 23am', 'time_zone': 'Europe/Prague', 'value': 1657419780}, 'headsign': 'Kuřim,
+            železničnístanice', 'line': {'agencies': [{'name': 'IDSJMK(Datafrom: KORDISJMK,
+            DPMB)', 'phone': '011420543174317', 'url': 'http: //www.idsjmk.cz/'}], 'color': '#a2f279', 'name': 'Tišnov-VeverskáBítýška-Kuřim', 'short_name': '312', 'text_color': '#000000', 'vehicle': {'icon': '//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png', 'name': 'Bus', 'type': 'BUS'}}, 'num_stops': 7}, 'travel_mode': 'TRANSIT'}, {'distance': {'text': '81m', 'value': 81}, 'duration': {'text': '1min', 'value': 63}, 'end_location': {'lat': 49.3000629, 'lng': 16.5344509}, 'html_instructions': 'WalktoKuřim', 'polyline': {'points': '{
+              _|kHwm|cB@DBRNv@j@Al@A'}, 'start_location': {'lat': 49.30061629999999, 'lng': 16.5348368}, 'steps': [{'distance': {'text': '32m', 'value': 32}, 'duration': {'text': '1min', 'value': 23}, 'end_location': {'lat': 49.3005058, 'lng': 16.5344339}, 'html_instructions': 'Head<b>west</b>on<b>Farského</b>toward<b>Nádražní</b>', 'polyline': {'points': '{
+                _|kHwm|cB@DBRNv@'}, 'start_location': {'lat': 49.30061629999999, 'lng': 16.5348368}, 'travel_mode': 'WALKING'}, {'distance': {'text': '49m', 'value': 49}, 'duration': {'text': '1min', 'value': 40}, 'end_location': {'lat': 49.3000629, 'lng': 16.5344509}, 'html_instructions': 'Turn<b>left</b>onto<b>Nádražní</b><divstyle="font-size:0.9em">Destinationwillbeontheright</div>', 'maneuver': 'turn-left', 'polyline': {'points': 'e_|kHek|cBj@Al@A'}, 'start_location': {'lat': 49.3005058, 'lng': 16.5344339}, 'travel_mode': 'WALKING'}], 'travel_mode': 'WALKING'}, {'distance': {'text': '21.1km', 'value': 21065}, 'duration': {'text': '25mins', 'value': 1500}, 'end_location': {'lat': 49.19035, 'lng': 16.612342}, 'html_instructions': 'TraintowardsHlavnínádraží', 'polyline': {'points': 'k|{
+                  kHqj|cByC??M?w@?M?g@?w@?mB?
+                }@BsB?W?k@AmB?S@qA?_A?[
+                  BcA@MDu@Ds@@AFs@Hu@?GNeAFYTwABMLs@PaADe@Bg@@MHs@n@oDNq@ZeBZcBZeBZeBFWXiABGb@sAHYHSRk@Pc@BGbAgCRg@\\y@L[
+                    j@wARg@j@{
+                      ATk@@Ch@qADId@mADIv@oBl@
+                    }A@Al@yANc@Vq@HSv@oB@Ah@uAN[
+                      FMn@wAl@mAVg@Ve@Xi@Xe@r@mANW`@u@r@mA@AVc@~BaEbAgBp@kADGpA{
+                        BNUxAgCJSXe@v@sAR_@Xe@v@oATa@NUjA{
+                          AjAmAb@a@BCx@s@r@k@h@c@^YHGTS^Y^Y\\YDEXU^Y^Y^Y\\YRQjA
+                        }@n@i@LK^Y^Y^Y|@u@NKn@g@RQHI^Y@A\\WHGZYVSv@k@FG~@s@\\[
+                          ^W^[
+                            d@_@XUb@
+                          ]XU~@s@LMPK|@s@FEVSZSd@
+                        ]TQhAu@LIdAs@LGpAy@NK^U`@W^U^UHEjAs@lAw@b@YZW\\W@Aj@c@XYPSVYHIFIRYZa@JQZi@Ve@b@{
+                          @BIr@kBFOPm@Rm@BIf@kBHYT{
+                            @Jc@dA{
+                              Db@eBJ_@V_ABK\\sA@E`@sA@CTo@L_@BIHQJY@AHSHSHQFKDKDIHOHMDKFIJODGJSPUPUTYDG\\
+                            ]XYb@_@XUd@[
+                              LIf@Yr@Y\\KTKl@Qt@Sr@OJCVE`@IXGpAQXEF?b@Eb@Eh@E\\Ax@Cp@?f@@^@X@|@JRDVDHBb@JB@\\LLFRH`@PLFRJLHPLJFlAz@DB^X~@p@HFvA~@FDt@d@d@P`@PHBVHz@TH@fAL@@dA@d@AR?LAPAPC@?n@ITGf@M\\MFC^Od@UVODEh@
+                            ]RQXWLKl@q@HIZc@T
+                          ]d@u@f@aAv@mBDIDQFQRq@d@oB\\oBBI^eCr@wETsAXuATeA`@uA`@gARa@Re@n@gA^m@\\a@PSr@u@r@i@JKRKZSt@_@|@YZG^Ip@Iz@Ej@?f@@h@BdCV`BPrDb@x@HN@L@|@JlALjJhAfJ`ATBTBf@Fh@F^B\\@j@BX?@?x@@z@AhAEj@CvESxAE^Ah@CnEQ`DK~CMzBIfBMn@G`@GXEt@S^KTILGh@[
+                            l@
+                          ]~@q@fAaAfAaAt@u@r@s@dAcAb@[
+                            ^e@bA_ArAoAjBgBnBkBbC_CrCmCjCeCFGtCqCzBuBhAiABCFEHKJI^
+                          ]PQl@k@d@c@h@i@Z_@b@e@Va@\\i@Vg@Ti@Pc@Pe@FWHWHYFWH
+                        ]F
+                      ]Hc@Fg@Fk@Fo@Dg@Bi@Bw@DyAFaCDyBDyBJsDB{
+                        @DgADk@Hw@LcAJw@V{
+                          AP{
+                            @x@{
+                              Dp@eDxAkHt@kDJi@Ji@vBoKvDqQJg@Jg@zDgRTcA@GBKRaAFYxBoKv@yDf@
+                            }BHe@VmADSh@aCZwAReAJo@Jm@Hk@Da@Fc@B_@Bm@Dy@@k@?
+                          ]?_@Ay@A
+                        }@GaAEo@?CIcACYg@gCq@qBKSi@gAmBcCgA{
+                          @o@_@m@U{
+                            @Wy@My@AqB?kC@qAI{
+                              @EQCQGq@UKE{
+                                @g@i@c@c@
+                              ]q@_AOQU
+                            ]i@{
+                              @U_@e@y@[
+                                g@g@{
+                                  @OWGKWa@c@u@i@_AS[
+                                    We@_@m@S
+                                  ]Wc@cAeBwA
+                                }Bu@oAYg@MY
+                              ]o@[
+                                o@g@mAg@wAUq@a@uAe@oB_@uB[
+                                  oCGa@KiAGqACu@Ag@?k@?k@@G@g@@o@@AFcAHy@Fe@@EDYP_ADONm@Ni@Vs@N
+                                ]DKRe@R_@JQd@q@`@e@n@k@t@k@n@_@ZKZKXIDA\\IJCTC@?`@Ab@?^@T@t@Jr@NjB`@LBNDPDRD^JnBb@jATH@n@F|@Ln@@\\?R@R?V@p@FXB\\DZBp@Hb@H`AXdA`@TJ`Bp@tAj@B@lAd@t@ZRHx@\\fAb@~B~@lDzAnDvAbDrAxCnAlAd@z@\\nAh@|@\\dAb@p@ZZPXN|@p@dAj@DBl@Tr@f@RPNNj@d@TNBDXRh@b@\\\\`@f@TXb@r@Vd@\\p@DJXl@Tl@Tj@^dATp@L^Pf@f@vAv@tB~@lCJZRj@`@dALVXl@b@v@b@t@^f@l@p@d@f@XX|@p@~@d@`Ab@n@P^Jn@J~@Nl@J\\FRDLB`B^pCp@x@TFBD@F@D@NHLHHFx@\\lBr@TFfB^\\HPDLBz@TZHj@Lr@Nd@Lb@LTH\\Jh@PbAd@`@TZR\\TXRVR^XNLPPXVRTRT`@d@X\\FHPTV`@RZVb@^n@P\\JTJPVj@b@~@b@lAPh@JZf@dBFR@FFVHb@Pr@@FPx@Px@@DLr@H^D\\Lz@Dd@N|ADn@Hv@Fx@@RNfBTxCNnBPfCNhBB\\JnAFf@JnAPlBV~CJlAFr@Hv@Fv@PvBBRFt@Hv@NlAD^H`@F\\FTJ\\FPJXPh@Pb@Nb@JZDJBFFLLRFJHJLR@?LPNNJJPN^ZNF^`@LJDFnAv@FDRPTRPNRRX\\d@l@b@v@DLFNHXJ\\HVH\\Pv@A@'}, 'start_location': {'lat': 49.300061, 'lng': 16.534334}, 'transit_details': {'arrival_stop': {'location': {'lat': 49.19035, 'lng': 16.612342}, 'name': 'Hlavnínádraží'}, 'arrival_time': {'text': '5: 21am', 'time_zone': 'Europe/Prague', 'value': 1657423260}, 'departure_stop': {'location': {'lat': 49.300061, 'lng': 16.534334}, 'name': 'Kuřim'}, 'departure_time': {'text': '4: 56am', 'time_zone': 'Europe/Prague', 'value': 1657421760}, 'headsign': 'Hlavnínádraží', 'line': {'agencies': [{'name': 'IDSJMK(Datafrom: KORDISJMK,
+                                DPMB)', 'phone': '011420543174317', 'url': 'http: //www.idsjmk.cz/'}], 'color': '#800000', 'name': 'Níhov-Tišnov-Brnohl.n.-Vranovice-Šakvice-HustopečeTišnov-Brnohl.n.-Židlochovice', 'short_name': 'S3', 'text_color': '#ffffff', 'vehicle': {'icon': '//maps.gstatic.com/mapfiles/transit/iw2/6/rail2.png', 'name': 'Train', 'type': 'HEAVY_RAIL'}}, 'num_stops': 6}, 'travel_mode': 'TRANSIT'}, {'distance': {'text': '0.3km', 'value': 254}, 'duration': {'text': '4mins', 'value': 229}, 'end_location': {'lat': 49.1933706, 'lng': 16.6142103}, 'html_instructions': 'WalktoBrnoBenesova', 'polyline': {'points': 'ivfkHytkdBAEAC?E@QY_@GEIGKEEAi@WIEETu@[
+                                  oAi@MGg@W@a@EWOO
+                                ]O'}, 'start_location': {'lat': 49.1915714, 'lng': 16.612772}, 'steps': [{'distance': {'text': '84m', 'value': 84}, 'duration': {'text': '2mins', 'value': 96}, 'end_location': {'lat': 49.1921512, 'lng': 16.6133592}, 'html_instructions': 'Head<b>east</b><divstyle="font-size:0.9em">Takethestairs</div>', 'polyline': {'points': 'ivfkHytkdBAEAC?E@QY_@GEIGKEEAi@WIE'}, 'start_location': {'lat': 49.1915714, 'lng': 16.612772}, 'travel_mode': 'WALKING'}, {'distance': {'text': '9m', 'value': 9}, 'duration': {'text': '1min', 'value': 7}, 'end_location': {'lat': 49.1921824, 'lng': 16.6132463}, 'html_instructions': 'Turn<b>left</b>toward<b>Benešova</b>', 'maneuver': 'turn-left', 'polyline': {'points': '
+                              }yfkHoxkdBET'}, 'start_location': {'lat': 49.1921512, 'lng': 16.6133592}, 'travel_mode': 'WALKING'}, {'distance': {'text': '0.1km', 'value': 111}, 'duration': {'text': '1min', 'value': 84}, 'end_location': {'lat': 49.1931214, 'lng': 16.6137577}, 'html_instructions': 'Turn<b>right</b>onto<b>Benešova</b>', 'maneuver': 'turn-right', 'polyline': {'points': 'czfkHywkdBu@[
+                                oAi@MGg@W'}, 'start_location': {'lat': 49.1921824, 'lng': 16.6132463}, 'travel_mode': 'WALKING'}, {'distance': {'text': '21m', 'value': 21}, 'duration': {'text': '1min', 'value': 20}, 'end_location': {'lat': 49.1931373, 'lng': 16.6140459}, 'html_instructions': 'Turn<b>right</b>', 'maneuver': 'turn-right', 'polyline': {'points': '_`gkH_{
+                                  kdB@a@EW'}, 'start_location': {'lat': 49.1931214, 'lng': 16.6137577}, 'travel_mode': 'WALKING'}, {'distance': {'text': '29m', 'value': 29}, 'duration': {'text': '1min', 'value': 22}, 'end_location': {'lat': 49.1933706, 'lng': 16.6142103}, 'html_instructions': 'Turn<b>left</b><divstyle="font-size:0.9em">Destinationwillbeontheright</div>', 'maneuver': 'turn-left', 'polyline': {'points': 'c`gkHy|kdBOO
+                                ]O'}, 'start_location': {'lat': 49.1931373, 'lng': 16.6140459}, 'travel_mode': 'WALKING'}], 'travel_mode': 'WALKING'}, {'distance': {'text': '126km', 'value': 126015}, 'duration': {'text': '2hours20mins', 'value': 8400}, 'end_location': {'lat': 48.119972, 'lng': 16.563238}, 'html_instructions': 'BustowardsViennaInternationalAirport', 'polyline': {'points': 'iagkH
+                              }~kdBbybE`bf@jyLkb\\'}, 'start_location': {'lat': 49.1933303, 'lng': 16.614393}, 'transit_details': {'arrival_stop': {'location': {'lat': 48.119972, 'lng': 16.563238}, 'name': 'ViennaAirportBusStation'}, 'arrival_time': {'text': '7: 50am', 'time_zone': 'Europe/Vienna', 'value': 1657432200}, 'departure_stop': {'location': {'lat': 49.1933303, 'lng': 16.614393}, 'name': 'BrnoBenesova'}, 'departure_time': {'text': '5: 30am', 'time_zone': 'Europe/Prague', 'value': 1657423800}, 'headsign': 'ViennaInternationalAirport', 'line': {'agencies': [{'name': 'FlixBus', 'url': 'https: //www.flixbus.com/'}], 'color': '#73d700', 'name': 'Hamburg-Vienna', 'short_name': 'FlixBus', 'text_color': '#ffffff', 'vehicle': {'icon': '//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png', 'name': 'Bus', 'type': 'BUS'}}, 'num_stops': 2}, 'travel_mode': 'TRANSIT'}], 'traffic_speed_entry': [], 'via_waypoint': []}], 'overview_polyline': {'points': 'mewkHodicBPkBJ
+                            ]Ny@d@cENy@HuBa@mF@oDNeGOiDcBkN_@cDAq@RqDdC{
+                              ZZaFE
+                            }BYeC_@yAmAuCoA_BcAy@gC{
+                              @
+                            }AGyATwAn@wCbD
+                          }CtDkBr@_CXe@Ae@[
+                            e@aAeAcBaA{
+                              Ao@n@u@bAm@p@s@FwA[
+                                uA?uAKcDcAeA
+                              ]gAq@kCgCiDcFsAuCEcCf@OBU?WCU[
+                                sAi@eBm@i@aBy@eA_AsEsIu@kAk@sAmA_HEuB\\wLB
+                              }BKkAs@uB
+                            ]c@o@[
+                              mBo@qEgCq@kAM{
+                                BLcAj@y@hEsDb@iA^uBNwBe@mGFiFn@wF@oB@w@h@gETyEXmDpAiFdA{
+                                  Eb@gEZiKHmCNsAtA{
+                                    FrAwFzAwCpAcC`@sAn@aCh@wAJaAWuF?iBPeBMiA
+                                  }@o@i@A{
+                                    @TaAVWAYW
+                                  ]sA{
+                                    @{
+                                      C_BiCaBy@wAsAaB
+                                    }@iDyAYa@I{
+                                      C[
+                                        aDRgBzA{
+                                          L`AkKZ_B@cDBgOQwA_EmOsCaKOwC^mGTyEMiCYeBwBqK[
+                                            cBOq@a@PcAb@eBv@eCfAiDlAe@Ca@WgA_Af@uAnBsFbAmDd@uDO_EuEoLs@{
+                                              DO_G^mILcDEKeBa@mBc@a@IFy@c@C_E@UqADXNv@j@Al@A?VyC??M?eA?kGBgNd@oHvAaJ~@yGbBaJ`AoEjAmDxEqLvEoLhEuKhF
+                                            }KjTg_@|CiFd@w@vCiDtCeChByA|EwDzGmFvMkKjOeLzPyKnBkB`AoAbB
+                                          }CpAsDtE_Q`CmIhCwFhCaDpB{
+                                            AnCkAbDy@dDi@hBQrDK~CPxAZtCpArHhFdCnAfBd@tDNdAGnB_@jBw@zAeA~A_B~ByDjA{
+                                              CzA{
+                                                GbCgOlBeG`C
+                                              }DdC_CbDyAhDa@bG\\dZfDnQbBpC?fLc@zLc@rLm@pCm@zBkAdGkF|DyD~W_W|KoKnCkCtBqCpA{
+                                                Cb@aBb@gCXmDr@_Yh@_FtCyNnN
+                                              }q@zQ{
+                                                |@b@_DNsDCuDWyDk@aD
+                                              }@eCwCkEwB{
+                                                AiBm@sBO
+                                              }F@mCOaBg@eBkAuA
+                                            }AeBkCyBuDmEqHkIyNgCmHeAeFc@qDYyFBgCToD`@eC|@{
+                                              C|@oBbCuCdBkAv@WhAYx@EnCN|Dz@tDz@bEl@vFVrDp@rGjCjQjHjYjLrI|EjErDrBzCrAxCjGfQnAdD`CbEjDdD`ChAnA\\zDn@tGzA|Bz@fDpA|Bf@xBh@bHjB~CdB`BnAhDxDdDbGdBrEx@xCzAlHbArK|E`m@d@nE^tBdBbFhAfBpCdC`CbBdBnBz@nBp@jCyF
+                                            }A@Wa@e@eAg@IEETeCeAu@_@Cy@m@_@Fc@bybE`bf@jyLkb\\'}, 'summary': '', 'warnings': ['Walkingdirectionsareinbeta.Usecaution–Thisroutemaybemissingsidewalksorpedestrianpaths.'], 'waypoint_order': []}], 'status': 'OK'}

@@ -1,0 +1,461 @@
+{
+  "search_id": "0e00b78e-91bb-449d-a1af-f5e626b3b602",
+  "data": [
+    {
+      "id": "22ee0f6b491f000063ba729a_0",
+      "nightsInDest": null,
+      "duration": {
+        "departure": 11220,
+        "return": 0,
+        "total": 11220
+      },
+      "flyFrom": "LGA",
+      "cityFrom": "New York",
+      "cityCodeFrom": "NYC",
+      "countryFrom": {
+        "code": "US",
+        "name": "United States"
+      },
+      "flyTo": "MIA",
+      "cityTo": "Miami",
+      "cityCodeTo": "MIA",
+      "countryTo": {
+        "code": "US",
+        "name": "United States"
+      },
+      "distance": 1770.31,
+      "routes": [
+        "- LGA\n- MIA"
+      ],
+      "airlines": [
+        "AA"
+      ],
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "price": 69,
+      "bags_price": {
+        "1": 36.96
+      },
+      "baglimit": {
+        "hand_width": 23,
+        "hand_height": 36,
+        "hand_length": 56,
+        "hand_weight": 10,
+        "hold_width": 28,
+        "hold_height": 52,
+        "hold_length": 78,
+        "hold_dimensions_sum": 158,
+        "hold_weight": 23
+      },
+      "availability": {
+        "seats": 7
+      },
+      "facilitated_booking_available": true,
+      "conversion": {
+        "EUR": 69
+      },
+      "quality": 142.86648200000002,
+      "booking_token": "BpnCkNqQQCgJsFyvZChbweyYDAMPOZcG4hMj2jZ--xOulHSxYCwzukDf03iLflxdO07awWun1on4u4FKnJOfbHSp5EvfgUAIkdp6L_YnT8aLVM5gczx8mZ5tpGjPnu9_zaSnYouW41gQd2jF73dMmOoGC_mDNYSq1GZqA3VEU_DUWRjyuyEx2x9pnM5jEy4ujc1ENlEoFPcSyaqqPuIB7_CAALOWKuQqyNoMUNjxAN-d3caz9gn5XyUAxeF8EXSFddGVPQYkxJTlxN_s5uD3bxWtvfutujpEVKoUlNxdV0sBuOogQqCMvZhqlPLBcgA2SbfG9dZY-YC1yuP-nMPX3t7yYfpshni7aQ-G6YXI0KN4Lve3lw2m9FluWFMRVvPlyeicA-1IYxIxL5GUfg96OYr7HfLY40nmqA--IydcjsWLPOI8zYNoi4KMr6YTM0t_XuMGBUwLTjd51Zx-sm_R7tMZ2HHCTEtwTKhFQCNx3WN9MDsTZS5KfrLD73BzHUWWMBMEZ4ux2qJLH3XBeJKzovOGmMzHA-KRBetC5oocLyFshFijM53AWF2yyuJ1-XPEgPvg72qkrOMjtRi2cpYWS1Ig_tqPOUlkpPZmZsWp-cRJdGH2TxmwRrn8cB0uEvkkB",
+      "transfers": [],
+      "type_flights": [
+        "deprecated"
+      ],
+      "fare": {
+        "adults": 34.5,
+        "children": 34.5,
+        "infants": 34.5
+      },
+      "price_dropdown": {
+        "base_fare": 69,
+        "fees": 0
+      },
+      "virtual_interlining": false,
+      "route": [
+        {
+          "fare_basis": "O7ALZNB3",
+          "fare_category": "M",
+          "fare_classes": "B",
+          "fare_family": "",
+          "last_seen": "2021-01-24T02:09:10.000Z",
+          "refresh_timestamp": "2021-01-24T02:09:10.000Z",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "id": "22ee0f6b491f000063ba729a_0",
+          "combination_id": "22ee0f6b491f000063ba729a",
+          "cityTo": "Miami",
+          "cityFrom": "New York",
+          "cityCodeFrom": "NYC",
+          "cityCodeTo": "MIA",
+          "flyTo": "MIA",
+          "flyFrom": "LGA",
+          "airline": "AA",
+          "operating_carrier": "AA",
+          "equipment": "738",
+          "flight_no": 1249,
+          "vehicle_type": "aircraft",
+          "operating_flight_no": "1249",
+          "local_arrival": "2021-04-02T09:07:00.000Z",
+          "utc_arrival": "2021-04-02T13:07:00.000Z",
+          "local_departure": "2021-04-02T06:00:00.000Z",
+          "utc_departure": "2021-04-02T10:00:00.000Z"
+        }
+      ],
+      "local_arrival": "2021-04-02T09:07:00.000Z",
+      "utc_arrival": "2021-04-02T13:07:00.000Z",
+      "local_departure": "2021-04-02T06:00:00.000Z",
+      "utc_departure": "2021-04-02T10:00:00.000Z"
+    },
+    {
+      "id": "22ee0f6b491e0000ef1e76ae_0",
+      "nightsInDest": null,
+      "duration": {
+        "departure": 12120,
+        "return": 0,
+        "total": 12120
+      },
+      "flyFrom": "LGA",
+      "cityFrom": "New York",
+      "cityCodeFrom": "NYC",
+      "countryFrom": {
+        "code": "US",
+        "name": "United States"
+      },
+      "flyTo": "MIA",
+      "cityTo": "Miami",
+      "cityCodeTo": "MIA",
+      "countryTo": {
+        "code": "US",
+        "name": "United States"
+      },
+      "distance": 1770.31,
+      "routes": [
+        "- LGA\n- MIA"
+      ],
+      "airlines": [
+        "AA"
+      ],
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "price": 69,
+      "bags_price": {
+        "1": 36.96
+      },
+      "baglimit": {
+        "hand_width": 23,
+        "hand_height": 36,
+        "hand_length": 56,
+        "hand_weight": 10,
+        "hold_width": 28,
+        "hold_height": 52,
+        "hold_length": 78,
+        "hold_dimensions_sum": 158,
+        "hold_weight": 23
+      },
+      "availability": {
+        "seats": 7
+      },
+      "facilitated_booking_available": true,
+      "conversion": {
+        "EUR": 69
+      },
+      "quality": 146.866472,
+      "booking_token": "BiTAzdhwUGZ6R5VYLHvO5l34lkScwXC9h-Tj2rZqLeTwVVc_LpHGKclwYfsy19JqLjL3f-CcSRNSXL145yk0Q_odGBU76mHE4zI1N73KC-3MvM6uyscK8Bq3SB59wnmJidY7hYm9PyyI5662bt9t3kufAzD5T2zHPB6JH-iV0Lmc0NW2Eytb4k-USbQiKYxFoZczyFoP3doPbgZPgQZ2GRNU0RqTFRw1Oa1EQl6EG_yFGIELMmhXEPG2u9AgBa4XPNC_xTdO2DLhaOHLbxEbQHa77efL5-p7uwZqwNik0DscacNApVqawv5cM0EuWQsREhRKFTj3xiCwAtaAL2WLf0vVnKOFBgBgsZVIvWi35lKITMIszwqY-Odr1FNc1VKFMWlVoHtM7KxZDUT3foXdfi2X8BEmebMIIx2Wp_aOyyeQre4xhOaUdrc4RxKotU6IuXH1PagRanAzZnh60I4y7-ZJXDb--rjfacN31I17IlJ3ulj-kzXJ9q-fRjumHv6mfzySGf76bNgDa0SB7wgpfCCCzvyFGWp9b0TtOSASt95psQsLQlL0GKVLJK2W2lIwhGiAZU8vSvv88nHf8FWsM-3uX3lveB-FQrSmMhXcX8gHgaPwtSokvFzkZYiQH9NPefXcipoJJBM4c2_Z7Cy0IOQ==",
+      "transfers": [],
+      "type_flights": [
+        "deprecated"
+      ],
+      "fare": {
+        "adults": 34.5,
+        "children": 34.5,
+        "infants": 34.5
+      },
+      "price_dropdown": {
+        "base_fare": 69,
+        "fees": 0
+      },
+      "virtual_interlining": false,
+      "route": [
+        {
+          "fare_basis": "O7ALZNB3",
+          "fare_category": "M",
+          "fare_classes": "B",
+          "fare_family": "",
+          "last_seen": "2021-01-23T11:02:37.000Z",
+          "refresh_timestamp": "2021-01-23T11:02:37.000Z",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "id": "22ee0f6b491e0000ef1e76ae_0",
+          "combination_id": "22ee0f6b491e0000ef1e76ae",
+          "cityTo": "Miami",
+          "cityFrom": "New York",
+          "cityCodeFrom": "NYC",
+          "cityCodeTo": "MIA",
+          "flyTo": "MIA",
+          "flyFrom": "LGA",
+          "airline": "AA",
+          "operating_carrier": "AA",
+          "equipment": null,
+          "flight_no": 2809,
+          "vehicle_type": "aircraft",
+          "operating_flight_no": "2809",
+          "local_arrival": "2021-04-01T23:21:00.000Z",
+          "utc_arrival": "2021-04-02T03:21:00.000Z",
+          "local_departure": "2021-04-01T19:59:00.000Z",
+          "utc_departure": "2021-04-01T23:59:00.000Z"
+        }
+      ],
+      "local_arrival": "2021-04-01T23:21:00.000Z",
+      "utc_arrival": "2021-04-02T03:21:00.000Z",
+      "local_departure": "2021-04-01T19:59:00.000Z",
+      "utc_departure": "2021-04-01T23:59:00.000Z"
+    },
+    {
+      "id": "22ee0f6b491f000018f49da6_0",
+      "nightsInDest": null,
+      "duration": {
+        "departure": 12120,
+        "return": 0,
+        "total": 12120
+      },
+      "flyFrom": "LGA",
+      "cityFrom": "New York",
+      "cityCodeFrom": "NYC",
+      "countryFrom": {
+        "code": "US",
+        "name": "United States"
+      },
+      "flyTo": "MIA",
+      "cityTo": "Miami",
+      "cityCodeTo": "MIA",
+      "countryTo": {
+        "code": "US",
+        "name": "United States"
+      },
+      "distance": 1770.31,
+      "routes": [
+        "- LGA\n- MIA"
+      ],
+      "airlines": [
+        "AA"
+      ],
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "price": 69,
+      "bags_price": {
+        "1": 36.96
+      },
+      "baglimit": {
+        "hand_width": 23,
+        "hand_height": 36,
+        "hand_length": 56,
+        "hand_weight": 10,
+        "hold_width": 28,
+        "hold_height": 52,
+        "hold_length": 78,
+        "hold_dimensions_sum": 158,
+        "hold_weight": 23
+      },
+      "availability": {
+        "seats": 7
+      },
+      "facilitated_booking_available": true,
+      "conversion": {
+        "EUR": 69
+      },
+      "quality": 146.866472,
+      "booking_token": "BTWzlyzIxDQbPhK6slz0AfBd2ecwZ_djUd9Lhwow_Oq3njaLSGhAXCKN7YxSLULhX7_xac85WGStdYx8UpPoYRmoj3yjjy8plQydElOczP5Zab8wjhV5AE_23PD4gKQKUwOKfqFbqAczXTlbhLOn-p6wYhIoFDOByjXUivLYmnRdDYDjy9Ff_o-GJr8QW7aUhr8hb7uERESCnJx9dvusUMr9p4Whgl6mpkjXJAsr4SoaHvTvfighuTqngPk7YtTpvE3KyuX6Hlfid5rLby2x_Yt8dj8cJ93EoRVA53qzC1jtxx3_FlwKNH8gO70u6_lL-Q7cMxdnfnl1nmeX1iboGP9H6bUMSTl7__UfXnc10AskOnv3eQ2d09VDRXUhKW5xP-i9O3Cx6HodZdj50PY7SCpgCGAa_7cu4MwPdYV1nc0ioOLDqs36rB0RoT_LvRkfY4RTgGf27qMEr-6go0Dbqc2C66BZDinc0DNfzRN7XKC2yrVKBCAJrw6EEktD1prWQKh-1_AB-zUBS9PpciUvf-3cWiV5ZVpQiNJQToaZGhNiiV6eRMkeDbTX6E8kNKiPGe1CWKX9Eh97P5ZaZ4iHfO3PHHxvPr2sz0CLADPgsA_mssP76lR44Rw-nJH2wsAAUsS_MOtXG57n9qYxJVeTyXQ==",
+      "transfers": [],
+      "type_flights": [
+        "deprecated"
+      ],
+      "fare": {
+        "adults": 34.5,
+        "children": 34.5,
+        "infants": 34.5
+      },
+      "price_dropdown": {
+        "base_fare": 69,
+        "fees": 0
+      },
+      "virtual_interlining": false,
+      "route": [
+        {
+          "fare_basis": "O7ALZNB3",
+          "fare_category": "M",
+          "fare_classes": "B",
+          "fare_family": "",
+          "last_seen": "2021-01-24T02:09:10.000Z",
+          "refresh_timestamp": "2021-01-24T02:09:10.000Z",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "id": "22ee0f6b491f000018f49da6_0",
+          "combination_id": "22ee0f6b491f000018f49da6",
+          "cityTo": "Miami",
+          "cityFrom": "New York",
+          "cityCodeFrom": "NYC",
+          "cityCodeTo": "MIA",
+          "flyTo": "MIA",
+          "flyFrom": "LGA",
+          "airline": "AA",
+          "operating_carrier": "AA",
+          "equipment": null,
+          "flight_no": 2809,
+          "vehicle_type": "aircraft",
+          "operating_flight_no": "2809",
+          "local_arrival": "2021-04-02T23:21:00.000Z",
+          "utc_arrival": "2021-04-03T03:21:00.000Z",
+          "local_departure": "2021-04-02T19:59:00.000Z",
+          "utc_departure": "2021-04-02T23:59:00.000Z"
+        }
+      ],
+      "local_arrival": "2021-04-02T23:21:00.000Z",
+      "utc_arrival": "2021-04-03T03:21:00.000Z",
+      "local_departure": "2021-04-02T19:59:00.000Z",
+      "utc_departure": "2021-04-02T23:59:00.000Z"
+    },
+    {
+      "id": "22ee0f6b491e00006e7ef966_0",
+      "nightsInDest": null,
+      "duration": {
+        "departure": 12420,
+        "return": 0,
+        "total": 12420
+      },
+      "flyFrom": "LGA",
+      "cityFrom": "New York",
+      "cityCodeFrom": "NYC",
+      "countryFrom": {
+        "code": "US",
+        "name": "United States"
+      },
+      "flyTo": "MIA",
+      "cityTo": "Miami",
+      "cityCodeTo": "MIA",
+      "countryTo": {
+        "code": "US",
+        "name": "United States"
+      },
+      "distance": 1770.31,
+      "routes": [
+        "- LGA\n- MIA"
+      ],
+      "airlines": [
+        "AA"
+      ],
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "price": 69,
+      "bags_price": {
+        "1": 36.96
+      },
+      "baglimit": {
+        "hand_width": 23,
+        "hand_height": 36,
+        "hand_length": 56,
+        "hand_weight": 10,
+        "hold_width": 28,
+        "hold_height": 52,
+        "hold_length": 78,
+        "hold_dimensions_sum": 158,
+        "hold_weight": 23
+      },
+      "availability": {
+        "seats": 7
+      },
+      "facilitated_booking_available": true,
+      "conversion": {
+        "EUR": 69
+      },
+      "quality": 148.199802,
+      "booking_token": "BfmC4vCoGlBrDgBiwab85VfMNsSiEf0El5X3HrjE_EKx0ZkSEC2DjLyaTNmC1n0muUfkctKhaJE-yo9kN6OFAKM5Svr1Ty34lpJJUqGs6FyJj-simGc5j54sfjr6Lfl6r-FaeNLf6d_s2s5t6FY_BE_0tVfiNkdi3rpoRFQXlD8SBNf7cKr_QazV-Zs0uHavVkAlkdhSDYU_bkPRwwndwxMSGR-3FNXzwQeSKuHD7saQ-MAaKbL6waCmx0S4u7uTW-NimUKgaLdXQLRZ5PMirEiW6aVk320jAN0QKYxR92AaRFdVxdE778T9d_fmQ_ckiPHv0MkOBw71Q6JbUnQJGatvrcTgGTly4Y19obppPrrpba55l0lrzQzIb0ja9C8Gtozgm9xsN39pPhb5Qgd3Mg6oCXggydap_BK2Z2zvrYDmpszh9JBzGTZClmJHndCLc6quv4VVN6GIqH10ebsHchSgeZYs-4W0JWVAfkNfLxObckcUuuLLpj0V-9mnB93nAkZW8orri5hhX71B_AY9WnaayxYuh2Z1KwfSzKkYhPOBd7HOjrDZsm5IJ7ddt2StLJ_G6emtgh0zs_STz3hUk8cUONrXtZka3vCmfchM4me54DlphuHSDDs2zty0D5fEzZu450kteWXjgSL83yixpTQ==",
+      "transfers": [],
+      "type_flights": [
+        "deprecated"
+      ],
+      "fare": {
+        "adults": 34.5,
+        "children": 34.5,
+        "infants": 34.5
+      },
+      "price_dropdown": {
+        "base_fare": 69,
+        "fees": 0
+      },
+      "virtual_interlining": false,
+      "route": [
+        {
+          "fare_basis": "O7ALZNB3",
+          "fare_category": "M",
+          "fare_classes": "B",
+          "fare_family": "",
+          "last_seen": "2021-01-23T11:02:37.000Z",
+          "refresh_timestamp": "2021-01-23T11:02:37.000Z",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "id": "22ee0f6b491e00006e7ef966_0",
+          "combination_id": "22ee0f6b491e00006e7ef966",
+          "cityTo": "Miami",
+          "cityFrom": "New York",
+          "cityCodeFrom": "NYC",
+          "cityCodeTo": "MIA",
+          "flyTo": "MIA",
+          "flyFrom": "LGA",
+          "airline": "AA",
+          "operating_carrier": "AA",
+          "equipment": null,
+          "flight_no": 1457,
+          "vehicle_type": "aircraft",
+          "operating_flight_no": "1457",
+          "local_arrival": "2021-04-01T20:57:00.000Z",
+          "utc_arrival": "2021-04-02T00:57:00.000Z",
+          "local_departure": "2021-04-01T17:30:00.000Z",
+          "utc_departure": "2021-04-01T21:30:00.000Z"
+        }
+      ],
+      "local_arrival": "2021-04-01T20:57:00.000Z",
+      "utc_arrival": "2021-04-02T00:57:00.000Z",
+      "local_departure": "2021-04-01T17:30:00.000Z",
+      "utc_departure": "2021-04-01T21:30:00.000Z"
+    }
+  ],
+  "connections": [],
+  "time": 1,
+  "currency": "EUR",
+  "currency_rate": 1,
+  "fx_rate": 1,
+  "refresh": [],
+  "del": 0,
+  "ref_tasks": [],
+  "search_params": {
+    "flyFrom_type": "airport",
+    "to_type": "airport",
+    "seats": {
+      "passengers": 2,
+      "adults": 1,
+      "children": 1,
+      "infants": 0
+    }
+  },
+  "all_stopover_airports": [],
+  "all_airlines": []
+}

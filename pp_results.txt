@@ -1,0 +1,555 @@
+
+SEARCH
+
+Start location: Veverská Bítýška
+End location: Perpignan
+Date range: 12/07/2022-13/07/2022
+
+------------------
+
+
+Result 1 -------------
+
+Departure 2022-07-13 03:15:00 UTC
+Arrival 2022-07-14 07:48:00 UTC
+Flying through: Katowice KTW and Toulouse TLS
+Cost of the airplane ticket: 36EUR
+
+Transport to the airport:
+  1 - 5:15am - Vev. Bítýška, Nám. - IDS JMK (Data from: KORDIS JMK, DPMB) (Bus)
+  2 - 5:49am - Přístaviště - IDS JMK (Data from: KORDIS JMK, DPMB) (Tram)
+  3 - 6:30am - Brno Benesova - FlixBus (Bus)
+  4 - 10:35am - Katowice Sądowa - KZK GOP (Bus)
+
+Transport from the airport:
+  1 - 7:10am - Aéroport - Tisséo (Bus)
+  2 - 7:44am - Toulouse Matabiau - SNCF (Train)
+  3 - 9:04am - Gare de Narbonne - SNCF (Train)
+
+
+Result 2 -------------
+
+Departure 2022-07-12 11:51:00 UTC
+Arrival 2022-07-13 03:22:28 UTC
+Flying through: Vienna VIE and Marseille MRS
+Cost of the airplane ticket: 37EUR
+
+Transport to the airport:
+  1 - 1:51pm - Vev. Bítýška, Nám. - IDS JMK (Data from: KORDIS JMK, DPMB) (Bus)
+  2 - 2:16pm - Přístaviště - IDS JMK (Data from: KORDIS JMK, DPMB) (Tram)
+  3 - 3:00pm - Brno Benesova - Gepard Express (Bus)
+
+Transport from the airport:
+  1 - 12:30am - Marseille - Marseille Provence Airport - BlaBlaBus (Bus)
+  2 - 3:30am - Montpellier - FlixBus (Bus)
+
+
+Result 3 -------------
+
+Departure 2022-07-12 20:13:00 UTC
+Arrival 2022-07-13 21:42:28 UTC
+Flying through: Wrocław WRO and Girona GRO
+Cost of the airplane ticket: 37EUR
+
+Transport to the airport:
+  1 - 10:13pm - Vev. Bítýška, Nám. - IDS JMK (Data from: KORDIS JMK, DPMB) (Bus)
+  2 - 10:41pm - Kuřim - IDS JMK (Data from: KORDIS JMK, DPMB) (Train)
+  3 - 11:59pm - Brno Benesova - FlixBus (Bus)
+  4 - 4:00am - Katowice Sądowa - FlixBus (Bus)
+  5 - 6:53am - Dworzec Główny (Dworcowa) - MPK Autobusy (Bus)
+
+Transport from the airport:
+  1 - 10:15pm - Girona Airport, Girona Airport (GRO) - FlixBus (Bus)
+
+
+Result 4 -------------
+
+Flying through: Katowice KTW and Carcassonne CCF
+Cost of the airplane ticket: 43EUR
+
+Transport to the airport:
+  1 - 10:13pm - Vev. Bítýška, Nám. - IDS JMK (Data from: KORDIS JMK, DPMB) (Bus)
+  2 - 10:41pm - Kuřim - IDS JMK (Data from: KORDIS JMK, DPMB) (Train)
+  3 - 11:59pm - Brno Benesova - FlixBus (Bus)
+  4 - 3:30am - Katowice Sądowa - KZK GOP (Bus)
+
+Transport from the airport:
+Couldn't find transportation from the airport for this flight.
+
+
+
+Result 5 -------------
+
+Departure 2022-07-13 10:45:00 UTC
+Arrival 2022-07-14 07:48:00 UTC
+Flying through: Bratislava BTS and Toulouse TLS
+Cost of the airplane ticket: 47EUR
+
+Transport to the airport:
+  1 - 12:45pm - Vev. Bítýška, Nám. - IDS JMK (Data from: KORDIS JMK, DPMB) (Bus)
+  2 - 1:16pm - Přístaviště - IDS JMK (Data from: KORDIS JMK, DPMB) (Tram)
+  3 - 1:48pm - Brno Main Train Station - RegioJet (Train)
+  4 - 3:30pm - Hlavná stanica - Dopravný podnik Bratislava, a.s. (Bus)
+
+Transport from the airport:
+  1 - 7:10am - Aéroport - Tisséo (Bus)
+  2 - 7:44am - Toulouse Matabiau - SNCF (Train)
+  3 - 9:04am - Gare de Narbonne - SNCF (Train)
+
+
+Result 6 -------------
+
+Departure 2022-07-11 20:13:00 UTC
+Arrival 2022-07-13 08:48:00 UTC
+Flying through: Katowice KTW and Béziers BZR
+Cost of the airplane ticket: 50EUR
+
+Transport to the airport:
+  1 - 10:13pm - Vev. Bítýška, Nám. - IDS JMK (Data from: KORDIS JMK, DPMB) (Bus)
+  2 - 10:41pm - Kuřim - IDS JMK (Data from: KORDIS JMK, DPMB) (Train)
+  3 - 11:59pm - Brno Benesova - FlixBus (Bus)
+  4 - 3:30am - Katowice Sądowa - KZK GOP (Bus)
+
+Transport from the airport:
+  1 - 8:10am - Alengry - CapBus (Bus)
+  2 - 9:28am - Gare d'Agde - SNCF (Train)
+
+
+Result 7 -------------
+
+Departure 2022-07-13 05:51:00 UTC
+Arrival 2022-07-13 21:42:28 UTC
+Flying through: Bratislava BTS and Girona GRO
+Cost of the airplane ticket: 53EUR
+
+Transport to the airport:
+  1 - 7:51am - Vev. Bítýška, Nám. - IDS JMK (Data from: KORDIS JMK, DPMB) (Bus)
+  2 - 8:16am - Přístaviště - IDS JMK (Data from: KORDIS JMK, DPMB) (Tram)
+  3 - 9:00am - Brno Benesova - FlixBus (Bus)
+  4 - 10:45am - Bratislava,,Autobusová stanica - Dopravný podnik Bratislava, a.s. (Trolleybus)
+  5 - 11:10am - Slovinská - Dopravný podnik Bratislava, a.s. (Bus)
+
+Transport from the airport:
+  1 - 10:15pm - Girona Airport, Girona Airport (GRO) - FlixBus (Bus)
+
+
+Result 8 -------------
+
+Flying through: Wrocław WRO and Carcassonne CCF
+Cost of the airplane ticket: 55EUR
+
+Transport to the airport:
+  1 - 10:13pm - Vev. Bítýška, Nám. - IDS JMK (Data from: KORDIS JMK, DPMB) (Bus)
+  2 - 10:41pm - Kuřim - IDS JMK (Data from: KORDIS JMK, DPMB) (Train)
+  3 - 11:59pm - Brno Benesova - FlixBus (Bus)
+  4 - 4:00am - Katowice Sądowa - FlixBus (Bus)
+  5 - 6:53am - Dworzec Główny (Dworcowa) - MPK Autobusy (Bus)
+
+Transport from the airport:
+Couldn't find transportation from the airport for this flight.
+
+
+
+Result 9 -------------
+
+Departure 2022-07-13 02:13:00 UTC
+Arrival 2022-07-13 22:25:00 UTC
+Flying through: Vienna VIE and Toulouse TLS
+Cost of the airplane ticket: 60EUR
+
+Transport to the airport:
+  1 - 4:13am - Veverská Bítýška, náměstí - IDS JMK (Data from: KORDIS JMK, DPMB) (Bus)
+  2 - 4:41am - Kuřim - IDS JMK (Data from: KORDIS JMK, DPMB) (Train)
+  3 - 5:30am - Brno Benesova - FlixBus (Bus)
+
+Transport from the airport:
+  1 - 9:05pm - Aéroport - Tisséo (Bus)
+  2 - 9:45pm - Gare Routière de Toulouse - FlixBus (Bus)
+  3 - 11:52pm - Gare de Narbonne - SNCF (Train)
+
+
+Result 10 -------------
+
+Departure 2022-07-13 10:15:00 UTC
+Arrival 2022-07-13 22:27:28 UTC
+Flying through: Vienna VIE and Barcelona BCN
+Cost of the airplane ticket: 63EUR
+
+Transport to the airport:
+  1 - 12:15pm - Vev. Bítýška, Nám. - IDS JMK (Data from: KORDIS JMK, DPMB) (Bus)
+  2 - 12:46pm - Přístaviště - IDS JMK (Data from: KORDIS JMK, DPMB) (Tram)
+  3 - 1:35pm - Brno Benesova - FlixBus (Bus)
+
+Transport from the airport:
+  1 - 9:08pm - Aeroport - Terminal B - Monbus (Bus)
+  2 - 9:36pm - Pl. Espanya - Transports Metropolitans de Barcelona (Subway)
+  3 - 9:55pm - Barcelona, Barcelona Nord - FlixBus (Bus)
+
+
+Result 11 -------------
+
+Departure 2022-07-12 11:51:00 UTC
+Arrival 2022-07-13 06:50:00 UTC
+Flying through: Vienna VIE and Barcelona BCN
+Cost of the airplane ticket: 65EUR
+
+Transport to the airport:
+  1 - 1:51pm - Vev. Bítýška, Nám. - IDS JMK (Data from: KORDIS JMK, DPMB) (Bus)
+  2 - 2:16pm - Přístaviště - IDS JMK (Data from: KORDIS JMK, DPMB) (Tram)
+  3 - 3:00pm - Brno Benesova - Gepard Express (Bus)
+
+Transport from the airport:
+  1 - 5:09am - Aeroport Terminal T1 - Monbus (Bus)
+  2 - 5:38am - Pl. Espanya - Transports Metropolitans de Barcelona (Subway)
+  3 - 6:00am - Barcelona Nord - BlaBlaBus (Bus)
+  4 - 8:35am - Gare TGV - Sankeo (Bus)
+  5 - 8:49am - Clemenceau - Sankeo (Bus)
+
+
+Result 12 -------------
+
+Departure 2022-07-12 10:15:00 UTC
+Arrival 2022-07-12 22:27:28 UTC
+Flying through: Vienna VIE and Barcelona BCN
+Cost of the airplane ticket: 67EUR
+
+Transport to the airport:
+  1 - 12:15pm - Vev. Bítýška, Nám. - IDS JMK (Data from: KORDIS JMK, DPMB) (Bus)
+  2 - 12:46pm - Přístaviště - IDS JMK (Data from: KORDIS JMK, DPMB) (Tram)
+  3 - 1:35pm - Brno Benesova - FlixBus (Bus)
+
+Transport from the airport:
+  1 - 9:08pm - Aeroport - Terminal B - Monbus (Bus)
+  2 - 9:36pm - Pl. Espanya - Transports Metropolitans de Barcelona (Subway)
+  3 - 9:55pm - Barcelona, Barcelona Nord - FlixBus (Bus)
+
+
+Result 13 -------------
+
+Departure 2022-07-13 11:51:00 UTC
+Arrival 2022-07-14 06:55:00 UTC
+Flying through: Vienna VIE and Barcelona BCN
+Cost of the airplane ticket: 67EUR
+
+Transport to the airport:
+  1 - 1:51pm - Vev. Bítýška, Nám. - IDS JMK (Data from: KORDIS JMK, DPMB) (Bus)
+  2 - 2:16pm - Přístaviště - IDS JMK (Data from: KORDIS JMK, DPMB) (Tram)
+  3 - 3:00pm - Brno Benesova - Gepard Express (Bus)
+
+Transport from the airport:
+  1 - 5:09am - Aeroport Terminal T1 - Monbus (Bus)
+  2 - 5:38am - Pl. Espanya - Transports Metropolitans de Barcelona (Subway)
+  3 - 6:00am - Barcelona Nord - BlaBlaBus (Bus)
+  4 - 8:38am - PE Gare liO 1 - Sankeo (Bus)
+  5 - 8:54am - Clemenceau - Sankeo (Bus)
+
+
+Result 14 -------------
+
+Departure 2022-07-12 20:13:00 UTC
+Arrival 2022-07-13 19:50:00 UTC
+Flying through: Bratislava BTS and Toulouse TLS
+Cost of the airplane ticket: 68EUR
+
+Transport to the airport:
+  1 - 10:13pm - Vev. Bítýška, Nám. - IDS JMK (Data from: KORDIS JMK, DPMB) (Bus)
+  2 - 10:41pm - Kuřim - IDS JMK (Data from: KORDIS JMK, DPMB) (Train)
+  3 - 1:30am - Brno Benesova - RegioJet (Bus)
+  4 - 3:38am - Bratislava,,Autobusová stanica - Dopravný podnik Bratislava, a.s. (Bus)
+
+Transport from the airport:
+  1 - 6:35pm - Aéroport - Tisséo (Bus)
+  2 - 7:20pm - Toulouse Matabiau - SNCF (Train)
+
+
+Result 15 -------------
+
+Departure 2022-07-11 20:13:00 UTC
+Arrival 2022-07-12 12:47:28 UTC
+Flying through: Vienna VIE and Barcelona BCN
+Cost of the airplane ticket: 70EUR
+
+Transport to the airport:
+  1 - 10:13pm - Vev. Bítýška, Nám. - IDS JMK (Data from: KORDIS JMK, DPMB) (Bus)
+  2 - 10:41pm - Kuřim - IDS JMK (Data from: KORDIS JMK, DPMB) (Train)
+  3 - 1:15am - Brno Benesova - FlixBus (Bus)
+
+Transport from the airport:
+  1 - 11:30am - Aeroport del Prat - Terminal T2C - Andana 23 - Sagalés (Costa) (Bus)
+  2 - 12:10pm - Barcelona, Barcelona Nord - FlixBus (Bus)
+
+
+Result 16 -------------
+
+Departure 2022-07-13 15:43:00 UTC
+Arrival 2022-07-14 06:55:00 UTC
+Flying through: Prague PRG and Barcelona BCN
+Cost of the airplane ticket: 71EUR
+
+Transport to the airport:
+  1 - 5:43pm - Veverská Bítýška, náměstí - IDS JMK (Data from: KORDIS JMK, DPMB) (Bus)
+  2 - 6:11pm - Kuřim - IDS JMK (Data from: KORDIS JMK, DPMB) (Train)
+  3 - 7:10pm - Brno Benesova - FlixBus (Bus)
+  4 - 10:00pm - Hlavní nádraží - Prague Integrated Transport (Bus)
+
+Transport from the airport:
+  1 - 5:09am - Aeroport Terminal T1 - Monbus (Bus)
+  2 - 5:38am - Pl. Espanya - Transports Metropolitans de Barcelona (Subway)
+  3 - 6:00am - Barcelona Nord - BlaBlaBus (Bus)
+  4 - 8:38am - PE Gare liO 1 - Sankeo (Bus)
+  5 - 8:54am - Clemenceau - Sankeo (Bus)
+
+
+Result 17 -------------
+
+Departure 2022-07-12 11:51:00 UTC
+Arrival 2022-07-13 06:50:00 UTC
+Flying through: Vienna VIE and Barcelona BCN
+Cost of the airplane ticket: 71EUR
+
+Transport to the airport:
+  1 - 1:51pm - Vev. Bítýška, Nám. - IDS JMK (Data from: KORDIS JMK, DPMB) (Bus)
+  2 - 2:16pm - Přístaviště - IDS JMK (Data from: KORDIS JMK, DPMB) (Tram)
+  3 - 3:00pm - Brno Benesova - Gepard Express (Bus)
+
+Transport from the airport:
+  1 - 5:09am - Aeroport Terminal T1 - Monbus (Bus)
+  2 - 5:38am - Pl. Espanya - Transports Metropolitans de Barcelona (Subway)
+  3 - 6:00am - Barcelona Nord - BlaBlaBus (Bus)
+  4 - 8:35am - Gare TGV - Sankeo (Bus)
+  5 - 8:49am - Clemenceau - Sankeo (Bus)
+
+
+Result 18 -------------
+
+Departure 2022-07-13 06:21:00 UTC
+Arrival 2022-07-13 20:02:28 UTC
+Flying through: Vienna VIE and Barcelona BCN
+Cost of the airplane ticket: 75EUR
+
+Transport to the airport:
+  1 - 8:21am - Vev. Bítýška, Nám. - IDS JMK (Data from: KORDIS JMK, DPMB) (Bus)
+  2 - 8:46am - Přístaviště - IDS JMK (Data from: KORDIS JMK, DPMB) (Tram)
+  3 - 9:40am - Brno Benesova - RegioJet (Bus)
+
+Transport from the airport:
+  1 - 6:10pm - Barcelona, Aeroport Barcelona T1 - SARFA (Bus)
+  2 - 7:55pm - Lloret de Mar (Bus Station) - FlixBus (Bus)
+
+
+Result 19 -------------
+
+Flying through: Katowice KTW and Carcassonne CCF
+Cost of the airplane ticket: 75EUR
+
+Transport to the airport:
+  1 - 4:13am - Veverská Bítýška, náměstí - IDS JMK (Data from: KORDIS JMK, DPMB) (Bus)
+  2 - 4:41am - Kuřim - IDS JMK (Data from: KORDIS JMK, DPMB) (Train)
+  3 - 5:35am - Brno Benesova - FlixBus (Bus)
+  4 - 9:00am - Katowice Sądowa - KZK GOP (Bus)
+
+Transport from the airport:
+Couldn't find transportation from the airport for this flight.
+
+
+
+Result 20 -------------
+
+Departure 2022-07-13 09:15:00 UTC
+Arrival 2022-07-14 03:22:28 UTC
+Flying through: Vienna VIE and Marseille MRS
+Cost of the airplane ticket: 75EUR
+
+Transport to the airport:
+  1 - 11:15am - Vev. Bítýška, Nám. - IDS JMK (Data from: KORDIS JMK, DPMB) (Bus)
+  2 - 11:46am - Přístaviště - IDS JMK (Data from: KORDIS JMK, DPMB) (Tram)
+  3 - 12:20pm - Brno Benesova - Gepard Express (Bus)
+
+Transport from the airport:
+  1 - 12:30am - Marseille - Marseille Provence Airport - BlaBlaBus (Bus)
+  2 - 3:30am - Montpellier - FlixBus (Bus)
+
+
+Result 21 -------------
+
+Departure 2022-07-12 11:51:00 UTC
+Arrival 2022-07-13 03:27:28 UTC
+Flying through: Vienna VIE and Barcelona BCN
+Cost of the airplane ticket: 76EUR
+
+Transport to the airport:
+  1 - 1:51pm - Vev. Bítýška, Nám. - IDS JMK (Data from: KORDIS JMK, DPMB) (Bus)
+  2 - 2:16pm - Přístaviště - IDS JMK (Data from: KORDIS JMK, DPMB) (Tram)
+  3 - 3:00pm - Brno Benesova - Gepard Express (Bus)
+
+Transport from the airport:
+  1 - 2:06am - Aeroport - Terminal B - Monbus (Bus)
+  2 - 2:31am - Pl. Espanya - TUSGSAL (Bus)
+  3 - 3:00am - Barcelona, Barcelona Nord - FlixBus (Bus)
+
+
+Result 22 -------------
+
+Flying through: Vienna VIE and Lourdes LDE
+Cost of the airplane ticket: 79EUR
+
+Transport to the airport:
+  1 - 11:15am - Vev. Bítýška, Nám. - IDS JMK (Data from: KORDIS JMK, DPMB) (Bus)
+  2 - 11:46am - Přístaviště - IDS JMK (Data from: KORDIS JMK, DPMB) (Tram)
+  3 - 12:20pm - Brno Benesova - Gepard Express (Bus)
+
+Transport from the airport:
+Couldn't find transportation from the airport for this flight.
+
+
+
+Result 23 -------------
+
+Departure 2022-07-13 08:21:00 UTC
+Arrival 2022-07-14 03:27:28 UTC
+Flying through: Vienna VIE and Barcelona BCN
+Cost of the airplane ticket: 79EUR
+
+Transport to the airport:
+  1 - 10:21am - Vev. Bítýška, Nám. - IDS JMK (Data from: KORDIS JMK, DPMB) (Bus)
+  2 - 10:46am - Přístaviště - IDS JMK (Data from: KORDIS JMK, DPMB) (Tram)
+  3 - 11:48am - Brno Main Train Station - RegioJet (Train)
+
+Transport from the airport:
+  1 - 2:06am - Aeroport - Terminal B - Monbus (Bus)
+  2 - 2:31am - Pl. Espanya - TUSGSAL (Bus)
+  3 - 3:00am - Barcelona, Barcelona Nord - FlixBus (Bus)
+
+
+Result 24 -------------
+
+Departure 2022-07-12 14:21:00 UTC
+Arrival 2022-07-13 06:50:00 UTC
+Flying through: Vienna VIE and Barcelona BCN
+Cost of the airplane ticket: 81EUR
+
+Transport to the airport:
+  1 - 4:21pm - Vev. Bítýška, Nám. - IDS JMK (Data from: KORDIS JMK, DPMB) (Bus)
+  2 - 4:46pm - Přístaviště - IDS JMK (Data from: KORDIS JMK, DPMB) (Tram)
+  3 - 5:20pm - Brno Benesova - FlixBus (Bus)
+  4 - 7:12pm - Erdberg - Wiener Linien (Subway)
+  5 - 7:28pm - Vienne-Midi - ÖBB (Train)
+
+Transport from the airport:
+  1 - 5:09am - Aeroport Terminal T1 - Monbus (Bus)
+  2 - 5:38am - Pl. Espanya - Transports Metropolitans de Barcelona (Subway)
+  3 - 6:00am - Barcelona Nord - BlaBlaBus (Bus)
+  4 - 8:35am - Gare TGV - Sankeo (Bus)
+  5 - 8:49am - Clemenceau - Sankeo (Bus)
+
+
+Result 25 -------------
+
+Departure 2022-07-13 11:51:00 UTC
+Arrival 2022-07-14 03:27:28 UTC
+Flying through: Vienna VIE and Barcelona BCN
+Cost of the airplane ticket: 82EUR
+
+Transport to the airport:
+  1 - 1:51pm - Vev. Bítýška, Nám. - IDS JMK (Data from: KORDIS JMK, DPMB) (Bus)
+  2 - 2:16pm - Přístaviště - IDS JMK (Data from: KORDIS JMK, DPMB) (Tram)
+  3 - 3:00pm - Brno Benesova - Gepard Express (Bus)
+
+Transport from the airport:
+  1 - 2:06am - Aeroport - Terminal B - Monbus (Bus)
+  2 - 2:31am - Pl. Espanya - TUSGSAL (Bus)
+  3 - 3:00am - Barcelona, Barcelona Nord - FlixBus (Bus)
+
+
+Result 26 -------------
+
+Departure 2022-07-12 12:51:00 UTC
+Arrival 2022-07-13 03:27:28 UTC
+Flying through: Vienna VIE and Barcelona BCN
+Cost of the airplane ticket: 83EUR
+
+Transport to the airport:
+  1 - 2:51pm - Vev. Bítýška, Nám. - IDS JMK (Data from: KORDIS JMK, DPMB) (Bus)
+  2 - 3:16pm - Přístaviště - IDS JMK (Data from: KORDIS JMK, DPMB) (Tram)
+  3 - 3:48pm - Brno Main Train Station - RegioJet (Train)
+  4 - 5:43pm - Vienna Central T - ÖBB (High speed train)
+
+Transport from the airport:
+  1 - 2:06am - Aeroport - Terminal B - Monbus (Bus)
+  2 - 2:31am - Pl. Espanya - TUSGSAL (Bus)
+  3 - 3:00am - Barcelona, Barcelona Nord - FlixBus (Bus)
+
+
+Result 27 -------------
+
+Departure 2022-07-12 12:51:00 UTC
+Arrival 2022-07-13 06:50:00 UTC
+Flying through: Vienna VIE and Barcelona BCN
+Cost of the airplane ticket: 83EUR
+
+Transport to the airport:
+  1 - 2:51pm - Vev. Bítýška, Nám. - IDS JMK (Data from: KORDIS JMK, DPMB) (Bus)
+  2 - 3:16pm - Přístaviště - IDS JMK (Data from: KORDIS JMK, DPMB) (Tram)
+  3 - 3:48pm - Brno Main Train Station - RegioJet (Train)
+  4 - 5:43pm - Vienna Central T - ÖBB (High speed train)
+
+Transport from the airport:
+  1 - 5:09am - Aeroport Terminal T1 - Monbus (Bus)
+  2 - 5:38am - Pl. Espanya - Transports Metropolitans de Barcelona (Subway)
+  3 - 6:00am - Barcelona Nord - BlaBlaBus (Bus)
+  4 - 8:35am - Gare TGV - Sankeo (Bus)
+  5 - 8:49am - Clemenceau - Sankeo (Bus)
+
+
+Result 28 -------------
+
+Departure 2022-07-12 11:51:00 UTC
+Arrival 2022-07-13 03:27:28 UTC
+Flying through: Vienna VIE and Barcelona BCN
+Cost of the airplane ticket: 86EUR
+
+Transport to the airport:
+  1 - 1:51pm - Vev. Bítýška, Nám. - IDS JMK (Data from: KORDIS JMK, DPMB) (Bus)
+  2 - 2:16pm - Přístaviště - IDS JMK (Data from: KORDIS JMK, DPMB) (Tram)
+  3 - 3:00pm - Brno Benesova - Gepard Express (Bus)
+
+Transport from the airport:
+  1 - 2:06am - Aeroport - Terminal B - Monbus (Bus)
+  2 - 2:31am - Pl. Espanya - TUSGSAL (Bus)
+  3 - 3:00am - Barcelona, Barcelona Nord - FlixBus (Bus)
+
+
+Result 29 -------------
+
+Departure 2022-07-13 02:13:00 UTC
+Arrival 2022-07-13 19:50:00 UTC
+Flying through: Vienna VIE and Toulouse TLS
+Cost of the airplane ticket: 87EUR
+
+Transport to the airport:
+  1 - 4:13am - Veverská Bítýška, náměstí - IDS JMK (Data from: KORDIS JMK, DPMB) (Bus)
+  2 - 4:41am - Kuřim - IDS JMK (Data from: KORDIS JMK, DPMB) (Train)
+  3 - 5:30am - Brno Benesova - FlixBus (Bus)
+
+Transport from the airport:
+  1 - 6:35pm - Aéroport - Tisséo (Bus)
+  2 - 7:20pm - Toulouse Matabiau - SNCF (Train)
+
+
+Result 30 -------------
+
+Departure 2022-07-12 20:13:00 UTC
+Arrival 2022-07-13 16:48:00 UTC
+Flying through: Vienna VIE and Toulouse TLS
+Cost of the airplane ticket: 92EUR
+
+Transport to the airport:
+  1 - 10:13pm - Vev. Bítýška, Nám. - IDS JMK (Data from: KORDIS JMK, DPMB) (Bus)
+  2 - 10:41pm - Kuřim - IDS JMK (Data from: KORDIS JMK, DPMB) (Train)
+  3 - 1:15am - Brno Benesova - FlixBus (Bus)
+
+Transport from the airport:
+  1 - 4:15pm - Aéroport - Tisséo (Bus)
+  2 - 4:46pm - Toulouse Matabiau - SNCF (Train)
+  3 - 6:05pm - Gare de Narbonne - SNCF (Train)
+
